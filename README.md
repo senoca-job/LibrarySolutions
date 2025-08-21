@@ -1,5 +1,5 @@
 # Library Solution SDJ
-Library Solution SDJ is application developed by a team of two students (including me), as part of my final project in my CFGS in Multiplataform Software Development.
+Library Solution SDJ is an application developed by a team of two students (including me), as part of my final project in my CFGS in Multiplataform Software Development.
 
 This software is a multiplataform tool developed for the administration of book libraries. It is powered by a server developed in Java, that communicates to the clients throught the network using sockets. All communications between client and server are encrypted. The data is stored in a PostgresSQL database using JDBC.
 
