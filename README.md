@@ -7,7 +7,7 @@ My partner developed the client side, based on Android, using Kotlin and Jetpack
 
 ## Technologies used
 - Java
-- PostgresSQL
+- PostgreSQL
 - SQL
 - JDBC
 - Network communication using sockets
